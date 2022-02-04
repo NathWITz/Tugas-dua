@@ -8,7 +8,7 @@ class App extends React.Component{
   render() {
     return (
       <div>
-        <Info nama='Nathan' kelas='XI MIPA 1' IsMorning='pagi' />
+        <Info nama='Nathan' kelas='XI MIPA 1' IsMorning='Pagi' />
         <Counter />
       </div>
     )
