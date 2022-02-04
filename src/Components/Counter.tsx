@@ -25,7 +25,7 @@ class Counter extends React.Component<{}, IState> {
                 Click me
             </button>
             <div>  {
-                counter%3 === 0 ? <Foto/>:null
+                counter%3 === 0 && counter!=0 ? <Foto/>:null
             }
             </div>
           
