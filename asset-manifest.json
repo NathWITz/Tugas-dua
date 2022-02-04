@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Tugas-dua/static/css/main.073c9b0a.css",
-    "main.js": "/Tugas-dua/static/js/main.95be4b46.js",
+    "main.js": "/Tugas-dua/static/js/main.a7666394.js",
     "static/js/787.d3befce1.chunk.js": "/Tugas-dua/static/js/787.d3befce1.chunk.js",
     "static/media/apa gajelas.jpg": "/Tugas-dua/static/media/apa gajelas.25693d6437d4a2c2ef46.jpg",
     "index.html": "/Tugas-dua/index.html",
     "main.073c9b0a.css.map": "/Tugas-dua/static/css/main.073c9b0a.css.map",
-    "main.95be4b46.js.map": "/Tugas-dua/static/js/main.95be4b46.js.map",
+    "main.a7666394.js.map": "/Tugas-dua/static/js/main.a7666394.js.map",
     "787.d3befce1.chunk.js.map": "/Tugas-dua/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.95be4b46.js"
+    "static/js/main.a7666394.js"
   ]
 }
